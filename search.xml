@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>git没了，咋办？？</title>
+      <link href="/2024/11/15/git%E6%B2%A1%E4%BA%86%EF%BC%8C%E5%92%8B%E5%8A%9E%EF%BC%9F%EF%BC%9F/"/>
+      <url>/2024/11/15/git%E6%B2%A1%E4%BA%86%EF%BC%8C%E5%92%8B%E5%8A%9E%EF%BC%9F%EF%BC%9F/</url>
+      
+        <content type="html"><![CDATA[<p>在typora上加标题的时候看到了下面这个东西，解释一下：</p><p>input YAML  Front Matter：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title: &quot;我的第一篇文章&quot;</span><br><span class="line">date: 2023-10-01</span><br><span class="line">author: &quot;张三&quot;</span><br><span class="line">tags:</span><br><span class="line">  - 编程</span><br><span class="line">  - 技术</span><br><span class="line">categories:</span><br><span class="line">  - 开发</span><br><span class="line">  - 学习</span><br><span class="line">---</span><br><span class="line"></span><br></pre></td></tr></table></figure><p>先说说我想说的吧：-</p><p>今天强迫症犯了，手贱把git删了，重新安装完后，发现测试SSH公钥是否添加成功（ssh -T <a href="mailto:&#103;&#105;&#116;&#64;&#x67;&#105;&#116;&#x68;&#117;&#x62;&#x2e;&#99;&#111;&#x6d;">&#103;&#105;&#116;&#64;&#x67;&#105;&#116;&#x68;&#117;&#x62;&#x2e;&#99;&#111;&#x6d;</a>）的时候会显示：You’ve successfully authenticated, but GitHub does not provide shell access.</p><p>然后去CSDN上找了半天解决方法，还在git bash窗口上输入了一大堆命令，也不知道会不会有什么影响，tmd最后发现好像不必理会………….</p><p>因为一开始配blog的时候检测SSH就会显示一大堆东西，然后最后一排就有一行这个字，如上；</p><p>那么就先不管了，真的服了我白看这么久，不过这有可能真是出问题了，只是我理解错了；或者是这确实是一个问题只是现在不需要管，如果试着一样的话那么就留着以后理解吧！！</p><p>还是有图片，但是没搞明白，先欠着。。。。。。</p><p>6</p><p>6</p><p>6</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>玄武杯</title>
       <link href="/2024/11/09/Tea-%E7%8E%84%E6%AD%A6%E6%9D%AF/"/>
       <url>/2024/11/09/Tea-%E7%8E%84%E6%AD%A6%E6%9D%AF/</url>
